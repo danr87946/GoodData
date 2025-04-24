@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+files/
+cost_db/
+netsuite.r
+NetsuiteDL/
