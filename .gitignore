@@ -6,3 +6,4 @@ files/
 cost_db/
 netsuite.r
 NetsuiteDL/
+aws.r
